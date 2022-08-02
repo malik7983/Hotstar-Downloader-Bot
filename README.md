@@ -28,7 +28,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/P-Phreak/URLuploader-With-Hotstar
+git clone https://github.com/malik7983/URLuploader-With-Hotstar
 cd URLuploader-With-Hotstar
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
